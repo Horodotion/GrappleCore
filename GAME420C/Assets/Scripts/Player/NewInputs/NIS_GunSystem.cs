@@ -17,6 +17,13 @@ public class NIS_GunSystem : MonoBehaviour
     public NIS_PlayerMovement pM;
 
 
+    //[Header("Inputs")]
+    //public KeyCode shootKey = KeyCode.Mouse0;
+    //public KeyCode reloadKey = KeyCode.R;
+    //public KeyCode pistolKey = KeyCode.Alpha1;
+    //public KeyCode shotgunKey = KeyCode.Alpha2;
+
+
     [Header("Graphics")]
     public GameObject bulletHoleGraphic;
 
